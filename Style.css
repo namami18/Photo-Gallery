@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    color:aqua;
+}
+
+#hello {
+    width: 400px;
+    height: 563px;
+}
+
+img {
+    width: 350px;
+}
+
+#mycarousel {
+    background-color: aquamarine;
+}
+
+.dogs {
+    display: inline;
+}
+
+#mycarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel inner {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: white;
+    font-size: 20px;
+}
